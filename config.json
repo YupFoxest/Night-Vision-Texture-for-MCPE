@@ -1,0 +1,138 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "RSPE Shaders",
+        "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+        "name": "Realistic Shaders [16 16]",
+        "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    },
+    {
+        "name": "Winter HD (1.14+)",
+        "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
+    },
+    {
+        "name": "Night Vision Pack (Shader)",
+        "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/HVkSl5s5gY6VILUm6ofx5UxG2fwFCrrzedLSHktMsrwZEfrD7n6n8k8UETkbQT1fzHalzSbtd4QG1WDLqb7xeUjzF9IM7B5s72U",
+    "view_skin": "https://lh3.googleusercontent.com/CHEtR1x4XfeTZdd4YtzV6Rk4xx4sHIWpcDZX7_81IIb-mY6bGV6GW01NogBH5GB_EF3yfsrTC0TmePmkKfwq_jS5BTQ_Jkzh9t8n"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/gKpDpn142-iNVfG3R2VZM9eHZ0ouoALWSmvDvUg4IIm4kT5NnBo-pLbdRy62PyhmivRK1CUu4uLoqbs-jsid5-QW1DSDZhEk2g",
+    "view_skin": "https://lh3.googleusercontent.com/fvZVI4vdRyO_PTfLrXNGPZAp2XN-J8qOJyWB9wItvbasjFjl4o2Aq2RfX2ElkIQuzwbpt0vkA-QSMufebLytYhJm_bwXkukjBLk"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ismPz_GkMSg4hZBDDCg5hdPwbLjVLMtn7VsTJFreQRAcSuowOljGCjTXwnI7shfKe6IT6KImKTVO0B1lVOC8kCQGAKnr0U3V0g",
+    "view_skin": "https://lh3.googleusercontent.com/Wd-616z-9Q_AjnuOk2UX6JdGlrnxXx1Ln0Ls7FtM5Sm0sfruEIwogF_8RwsjTYccSHcJFOGU-RbfAQf0zGQDPA6Ns7WTIVxLY6o9"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/uWw4sWe_wDcpyN8tFlxVn-0e9e9GxDgXH3yjojcy7xUxL-cEHMdlvt7LiLUnkTk8VK8gPPPDzAQfHYK5avUTUUiK7Rd9Kp9tMg",
+    "view_skin": "https://lh3.googleusercontent.com/o6pHXpNjj7RKmDYQOfg4e0MkAAQcebTN3_4DuE888bm2kXkovpSm_dbd2a08jUtdETK5nXfhlpLnCOezw430Vdim4BeTRNTx25c"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yZ5kE9OxNoJosYBFIEvXUzsFajO2ELDuiNt_4dHKWrWoG9rhvHsGmZEmgE4jwCWz0Uzs-8WU3HpG00JmykTmJnmtXTH-lPrnw-U",
+    "view_skin": "https://lh3.googleusercontent.com/dIoi12mvj89wu_Hw8fLcMEXg7hAVZfJJ9uCSEZHaJwUSHRkpwBPN4l_PEUhlcbK2t8IOGzHZ6TFoGBWmZbj-wUf1cMDLMyBFRhI"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
